@@ -31,12 +31,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-19 19:25:21</sys_created_on>
         <sys_id>af205e942f510010a34fc886f699b6a8</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-19 19:27:03</sys_updated_on>
+        <sys_updated_on>2024-03-02 12:55:42</sys_updated_on>
         <table>sc_req_item</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="Example Pinned Variables">c2e401402f110010a34fc886f699b652</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
@@ -324,7 +324,7 @@ runHTTP.execute();&#13;
 &#13;
 gs.info("Workflow: Terraform example workflow pinned variables finished.");&#13;
 </value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -401,7 +401,7 @@ runHTTP.execute();&#13;
 &#13;
 gs.info("Workflow: Terraform example workflow pinned variables finished.");&#13;
 </value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Example Workflow Pinned Variables">2f205e942f510010a34fc886f699b6ad</activity>

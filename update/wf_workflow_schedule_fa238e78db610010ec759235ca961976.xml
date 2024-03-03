@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="wf_workflow_schedule">
     <wf_workflow_schedule action="INSERT_OR_UPDATE">
         <active>true</active>
+        <business_calendar/>
         <condition/>
         <conditional>false</conditional>
+        <entered_time/>
         <name>Worker Poll Destroy Workspace</name>
+        <offset/>
+        <offset_type/>
         <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
         <run_as_tz/>
         <run_dayofmonth>1</run_dayofmonth>
@@ -25,6 +29,7 @@
         <sys_update_name>wf_workflow_schedule_fa238e78db610010ec759235ca961976</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-12-03 18:03:19</sys_updated_on>
+        <time_zone/>
         <upgrade_safe>false</upgrade_safe>
         <workflow display_value="Poll Destroy Workspace">6ab24e38db610010ec759235ca96194d</workflow>
     </wf_workflow_schedule>

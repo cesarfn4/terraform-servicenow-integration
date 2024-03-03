@@ -279,7 +279,7 @@ terraform_record.postRITMComment(gr.requested_item, comment);&#13;
 &#13;
 gs.info("Workflow: Terraform Create Workspace Finished.");&#13;
 </value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -340,7 +340,7 @@ terraform_record.postRITMComment(gr.requested_item, comment);&#13;
 &#13;
 gs.info("Workflow: Terraform Create Workspace Finished.");&#13;
 </value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Create with  Variables">b90bbc8adbd23300176661ca0b9619f8</activity>

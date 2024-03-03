@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type/>
         <active>true</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
         <category display_value="Terraform Resources">8872832edbe033009ba2f8fdbf961937</category>
+        <checked_out/>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<p>Delete a Terraform Workspace</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level/>
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
@@ -39,9 +44,11 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
+        <owner/>
         <picture/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=a27c69fc2fc10010a34fc886f699b635&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
+        <published_ref/>
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
         <request_method/>
@@ -49,9 +56,11 @@
         <sc_catalogs>ccb14beadbe033009ba2f8fdbf961932</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
+        <sc_template/>
         <short_description>Delete a Terraform Workspace</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
+        <state/>
         <sys_class_name>sc_cat_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-08 19:50:55</sys_created_on>
@@ -64,7 +73,9 @@
         <sys_update_name>sc_cat_item_a27c69fc2fc10010a34fc886f699b635</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-11-08 19:52:52</sys_updated_on>
+        <taxonomy_topic/>
         <template/>
+        <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>

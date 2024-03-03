@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="Deploy Azure Instance">d0dcc91097f00210e22fbf56f053af4b</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 11:30:05</sys_created_on>
+        <sys_id>e7fc815097f00210e22fbf56f053af2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deploy Azure Instance Workspace Variables.Deploy Azure Instance</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>io_set_item_e7fc815097f00210e22fbf56f053af2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 11:30:05</sys_updated_on>
+        <variable_set display_value="Deploy Azure Instance Workspace Variables">236a059c97b00210e22fbf56f053afcf</variable_set>
+    </io_set_item>
+</record_update>

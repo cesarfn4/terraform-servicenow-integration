@@ -349,7 +349,7 @@ while (gr.next()) {&#13;
 } // end while loop&#13;
 &#13;
 gs.info("Polling Workflow: terraform delete workspace finished.");</value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -451,7 +451,7 @@ while (gr.next()) {&#13;
 } // end while loop&#13;
 &#13;
 gs.info("Polling Workflow: terraform delete workspace finished.");</value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Poll Destroy Workspace">cd990586db520010e2e5f7af2996191e</activity>

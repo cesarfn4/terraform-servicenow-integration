@@ -266,7 +266,7 @@ terraform_record.postRITMComment(current.sys_id, comment);&#13;
 &#13;
 gs.info("Workflow: Terraform Create Run Finished.");&#13;
 </value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -314,7 +314,7 @@ terraform_record.postRITMComment(current.sys_id, comment);&#13;
 &#13;
 gs.info("Workflow: Terraform Create Run Finished.");&#13;
 </value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="CreateRun">fb1b30cadbd23300176661ca0b9619df</activity>

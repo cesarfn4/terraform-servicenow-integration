@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Deploy AWS Instance">a537808c97f84210e22fbf56f053af5b</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 13:04:15</sys_created_on>
+        <sys_id>ad09188c973c4210e22fbf56f053af74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Request Create.Deploy AWS Instance</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>io_set_item_ad09188c973c4210e22fbf56f053af74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 13:04:15</sys_updated_on>
+        <variable_set display_value="Workspace Request Create">c18f6bf1db92330019899b81ca9619f5</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</application>
+        <file_path/>
+        <instance_id>f2164fc1dbbb6914caf99027c5961949</instance_id>
+        <instance_name>dev178938</instance_name>
+        <name>io_set_item_ad09188c973c4210e22fbf56f053af74</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Deploy AWS Instance">a537808c97f84210e22fbf56f053af5b</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-02 13:04:15</sys_created_on><sys_id>ad09188c973c4210e22fbf56f053af74</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Workspace Request Create.Deploy AWS Instance</sys_name><sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package><sys_policy/><sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope><sys_update_name>io_set_item_ad09188c973c4210e22fbf56f053af74</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-02 13:04:15</sys_updated_on><variable_set display_value="Workspace Request Create">c18f6bf1db92330019899b81ca9619f5</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-1541234087</payload_hash>
+        <record_name>Workspace Request Create.Deploy AWS Instance</record_name>
+        <reverted_from/>
+        <source>69f923e797e80210e22fbf56f053af6e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 13:04:15</sys_created_on>
+        <sys_id>b7091000977c4210e22fbf56f053afff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dff43e2410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 13:04:15</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>ff091000b57c4210bc8463cf8bfb36fe</update_guid>
+        <update_guid_history>ff091000b57c4210bc8463cf8bfb36fe:-1541234087</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Workspace Request Create.Deploy AWS Instance">3d2ed044977c4210e22fbf56f053afc7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 13:26:31</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>181fccc7d31e4e34b84cac896e2ca190</sys_id>
+        <sys_metadata>ad09188c973c4210e22fbf56f053af74</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Request Create.Deploy AWS Instance</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_scope_delete display_value="">45184ac6f4e54bee89dba0e0f9a529c9</sys_scope_delete>
+        <sys_update_name>io_set_item_ad09188c973c4210e22fbf56f053af74</sys_update_name>
+        <sys_update_version display_value="io_set_item_ad09188c973c4210e22fbf56f053af74">b7091000977c4210e22fbf56f053afff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 13:26:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
