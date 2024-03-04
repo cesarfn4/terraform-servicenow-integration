@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Deploy AWS Instance">a537808c97f84210e22fbf56f053af5b</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-04 10:47:05</sys_created_on>
+        <sys_id>fdac4a2c47b002107138916a216d4304</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deploy AWS Instance.Cloud</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_fdac4a2c47b002107138916a216d4304</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-04 10:47:05</sys_updated_on>
+        <user_criteria display_value="Cloud">fdbc8a2c47b002107138916a216d4308</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</application>
+        <file_path/>
+        <instance_id>557e7274db563dd892f5684e1396194a</instance_id>
+        <instance_name>dev200679</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_fdac4a2c47b002107138916a216d4304</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Deploy AWS Instance">a537808c97f84210e22fbf56f053af5b</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-04 10:47:05</sys_created_on><sys_id>fdac4a2c47b002107138916a216d4304</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Deploy AWS Instance.Cloud</sys_name><sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package><sys_policy/><sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_fdac4a2c47b002107138916a216d4304</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-04 10:47:05</sys_updated_on><user_criteria display_value="Cloud">fdbc8a2c47b002107138916a216d4308</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-1975569231</payload_hash>
+        <record_name>Deploy AWS Instance.Cloud</record_name>
+        <reverted_from/>
+        <source>7ac9bd64477002107138916a216d4375</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-04 10:47:05</sys_created_on>
+        <sys_id>c2dc0ae847b002107138916a216d43a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e091307c30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-04 10:47:05</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>0edc0ae8b1b0021035490bf5a998aca4</update_guid>
+        <update_guid_history>0edc0ae8b1b0021035490bf5a998aca4:-1975569231</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Deploy AWS Instance.Cloud">3184d36c47b402107138916a216d4371</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-04 16:00:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>9d365963a5f54430b64cc5f0c16b6921</sys_id>
+        <sys_metadata>fdac4a2c47b002107138916a216d4304</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deploy AWS Instance.Cloud</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_scope_delete display_value="">45184ac6f4e54bee89dba0e0f9a529c9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_fdac4a2c47b002107138916a216d4304</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_fdac4a2c47b002107138916a216d4304">c2dc0ae847b002107138916a216d43a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-04 16:00:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
