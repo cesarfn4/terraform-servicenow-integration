@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>tf_var_instance_type</name>
-        <order>101</order>
+        <order>102</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -75,14 +75,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-02 11:56:09</sys_created_on>
         <sys_id>d3490ccc97f84210e22fbf56f053af51</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>AWS Instance Type</sys_name>
         <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
         <sys_update_name>item_option_new_d3490ccc97f84210e22fbf56f053af51</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-02 11:58:21</sys_updated_on>
+        <sys_updated_on>2024-03-05 11:40:00</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>
