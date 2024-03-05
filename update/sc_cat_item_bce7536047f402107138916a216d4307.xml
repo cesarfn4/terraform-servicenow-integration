@@ -4,14 +4,14 @@
         <active>true</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
-        <category display_value="Terraform Resources">8872832edbe033009ba2f8fdbf961937</category>
+        <category display_value="Cloud Resources">f8b8608147b842107138916a216d4383</category>
         <checked_out/>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description><![CDATA[<p>Deploy instance in Google Cloud</p>]]></description>
+        <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -52,11 +52,11 @@
         <recurring_price>0</recurring_price>
         <request_method/>
         <roles/>
-        <sc_catalogs>ccb14beadbe033009ba2f8fdbf961932</sc_catalogs>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template/>
-        <short_description>Deploy GCP Instance</short_description>
+        <short_description>Deploy instance in Google Cloud</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state/>
@@ -64,14 +64,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-04 16:15:36</sys_created_on>
         <sys_id>bce7536047f402107138916a216d4307</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Deploy GCP Instance</sys_name>
         <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
         <sys_update_name>sc_cat_item_bce7536047f402107138916a216d4307</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-05 12:38:15</sys_updated_on>
+        <sys_updated_on>2024-03-05 17:57:12</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>

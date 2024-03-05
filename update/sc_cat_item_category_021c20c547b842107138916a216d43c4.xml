@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Deploy Azure Instance">d0dcc91097f00210e22fbf56f053af4b</sc_cat_item>
-        <sc_category display_value="Terraform Resources">8872832edbe033009ba2f8fdbf961937</sc_category>
+        <sc_category display_value="Cloud Resources">f8b8608147b842107138916a216d4383</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-03-03 11:30:34</sys_created_on>
-        <sys_id>0d3dc15097f00210e22fbf56f053af33</sys_id>
+        <sys_created_on>2024-03-05 17:01:21</sys_created_on>
+        <sys_id>021c20c547b842107138916a216d43c4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Terraform Resources.Deploy Azure Instance</sys_name>
+        <sys_name>Cloud.Deploy Azure Instance</sys_name>
         <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
-        <sys_update_name>sc_cat_item_category_0d3dc15097f00210e22fbf56f053af33</sys_update_name>
+        <sys_update_name>sc_cat_item_category_021c20c547b842107138916a216d43c4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-03 11:30:34</sys_updated_on>
+        <sys_updated_on>2024-03-05 17:01:21</sys_updated_on>
     </sc_cat_item_category>
 </record_update>

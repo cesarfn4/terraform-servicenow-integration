@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Deploy Azure Instance">d0dcc91097f00210e22fbf56f053af4b</sc_cat_item>
+        <sc_catalog display_value="Terraform Catalog">ccb14beadbe033009ba2f8fdbf961932</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 11:30:34</sys_created_on>
+        <sys_id>c53dc15097f00210e22fbf56f053af30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terraform Catalog.Deploy Azure Instance</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c53dc15097f00210e22fbf56f053af30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 11:30:34</sys_updated_on>
+    </sc_cat_item_catalog>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</application>
+        <file_path/>
+        <instance_id>557e7274db563dd892f5684e1396194a</instance_id>
+        <instance_name>dev200679</instance_name>
+        <name>sc_cat_item_catalog_c53dc15097f00210e22fbf56f053af30</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Deploy Azure Instance">d0dcc91097f00210e22fbf56f053af4b</sc_cat_item>
+        <sc_catalog display_value="Terraform Catalog">ccb14beadbe033009ba2f8fdbf961932</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 11:30:34</sys_created_on>
+        <sys_id>c53dc15097f00210e22fbf56f053af30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terraform Catalog.Deploy Azure Instance</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c53dc15097f00210e22fbf56f053af30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 11:30:34</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>]]></payload>
+        <payload_hash>451277600</payload_hash>
+        <record_name>Terraform Catalog.Deploy Azure Instance</record_name>
+        <reverted_from/>
+        <source>40a93d68477002107138916a216d4342</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-04 09:23:16</sys_created_on>
+        <sys_id>46a9fd68477002107138916a216d43d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e08c64a970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-04 09:23:16</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>06a9fd6876700210d8596e0c2d00dad2</update_guid>
+        <update_guid_history>06a9fd6876700210d8596e0c2d00dad2:451277600</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Terraform Catalog.Deploy Azure Instance">711ca48547b842107138916a216d43f4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-05 17:01:20</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>24e17a1a00134a6a8e2f4eef2a8e2109</sys_id>
+        <sys_metadata>c53dc15097f00210e22fbf56f053af30</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terraform Catalog.Deploy Azure Instance</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_parent display_value="Deploy Azure Instance">d0dcc91097f00210e22fbf56f053af4b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_scope_delete display_value="">45184ac6f4e54bee89dba0e0f9a529c9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_c53dc15097f00210e22fbf56f053af30</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_c53dc15097f00210e22fbf56f053af30">46a9fd68477002107138916a216d43d2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-05 17:01:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
