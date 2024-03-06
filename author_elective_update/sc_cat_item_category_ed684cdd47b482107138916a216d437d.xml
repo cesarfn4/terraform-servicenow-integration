@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Deploy AWS Instance">a537808c97f84210e22fbf56f053af5b</sc_cat_item>
+        <sc_category display_value="Terraform Resources">8872832edbe033009ba2f8fdbf961937</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-06 09:03:52</sys_created_on>
+        <sys_id>ed684cdd47b482107138916a216d437d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terraform Resources.Deploy AWS Instance</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>sc_cat_item_category_ed684cdd47b482107138916a216d437d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-06 09:03:52</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</application>
+        <file_path/>
+        <instance_id>557e7274db563dd892f5684e1396194a</instance_id>
+        <instance_name>dev200679</instance_name>
+        <name>sc_cat_item_category_ed684cdd47b482107138916a216d437d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Deploy AWS Instance">a537808c97f84210e22fbf56f053af5b</sc_cat_item><sc_category display_value="Terraform Resources">8872832edbe033009ba2f8fdbf961937</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-06 09:03:52</sys_created_on><sys_id>ed684cdd47b482107138916a216d437d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Terraform Resources.Deploy AWS Instance</sys_name><sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package><sys_policy/><sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope><sys_update_name>sc_cat_item_category_ed684cdd47b482107138916a216d437d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-06 09:03:52</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-837350597</payload_hash>
+        <record_name>Terraform Resources.Deploy AWS Instance</record_name>
+        <reverted_from/>
+        <source>7ac9bd64477002107138916a216d4375</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-06 09:03:53</sys_created_on>
+        <sys_id>a9684cdd47b482107138916a216d4387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e130141010000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-06 09:03:53</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>e1684cdd0bb4821062af315d53fb6987</update_guid>
+        <update_guid_history>e1684cdd0bb4821062af315d53fb6987:-837350597</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Terraform Resources.Deploy AWS Instance">1ee8c41147f482107138916a216d4322</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-06 09:06:07</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>096e4b7f79914e8c80722fce18a13c84</sys_id>
+        <sys_metadata>ed684cdd47b482107138916a216d437d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terraform Resources.Deploy AWS Instance</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_scope_delete display_value="">45184ac6f4e54bee89dba0e0f9a529c9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_ed684cdd47b482107138916a216d437d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_ed684cdd47b482107138916a216d437d">a9684cdd47b482107138916a216d4387</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-06 09:06:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

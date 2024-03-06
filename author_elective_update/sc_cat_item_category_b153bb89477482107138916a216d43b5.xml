@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Copy of Delete Workspace">7953bb89477482107138916a216d43a8</sc_cat_item>
+        <sc_category display_value="Terraform Resources">8872832edbe033009ba2f8fdbf961937</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-06 07:31:52</sys_created_on>
+        <sys_id>b153bb89477482107138916a216d43b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terraform Resources.Copy of Delete Workspace</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>sc_cat_item_category_b153bb89477482107138916a216d43b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-06 07:31:52</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</application>
+        <file_path/>
+        <instance_id>557e7274db563dd892f5684e1396194a</instance_id>
+        <instance_name>dev200679</instance_name>
+        <name>sc_cat_item_category_b153bb89477482107138916a216d43b5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Copy of Delete Workspace">7953bb89477482107138916a216d43a8</sc_cat_item><sc_category display_value="Terraform Resources">8872832edbe033009ba2f8fdbf961937</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-06 07:31:52</sys_created_on><sys_id>b153bb89477482107138916a216d43b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Terraform Resources.Copy of Delete Workspace</sys_name><sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package><sys_policy/><sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope><sys_update_name>sc_cat_item_category_b153bb89477482107138916a216d43b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-06 07:31:52</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1408229876</payload_hash>
+        <record_name>Terraform Resources.Copy of Delete Workspace</record_name>
+        <reverted_from/>
+        <source>7ac9bd64477002107138916a216d4375</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-06 07:31:52</sys_created_on>
+        <sys_id>b553bb89477482107138916a216d43b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e12ad04980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-06 07:31:52</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>fd53bb8918748210234e6a2662299db7</update_guid>
+        <update_guid_history>fd53bb8918748210234e6a2662299db7:1408229876</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Terraform Resources.Copy of Delete Workspace">7925b70d477482107138916a216d430a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-06 07:39:47</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>48383e5cbc9a4b58accc7a9bda822581</sys_id>
+        <sys_metadata>b153bb89477482107138916a216d43b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terraform Resources.Copy of Delete Workspace</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_scope_delete display_value="">45184ac6f4e54bee89dba0e0f9a529c9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b153bb89477482107138916a216d43b5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b153bb89477482107138916a216d43b5">b553bb89477482107138916a216d43b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-06 07:39:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
